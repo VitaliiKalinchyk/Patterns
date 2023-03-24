@@ -1,0 +1,11 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "adapter".(°ύκϊÿÿÿÿ
+G
+java:S1481",Remove this unused "adapter" local variable.(°ύκϊÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µΡ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ρ¶τύÿÿÿÿ
+A
+java:S2160"+Override the "equals" method in this class.(Τ΅γ
+A
+java:S11504"+Implement Iterator rather than Enumeration.(°Γή
